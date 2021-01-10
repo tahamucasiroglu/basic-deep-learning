@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+E:\kodlama\yapaysinirağları\homework\homework2\func.h(96,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+E:\kodlama\yapaysinirağları\homework\homework2\func.h(371,6): warning C4101: 'color': yerel değişken başvurusu kaldırıldı
+E:\kodlama\yapaysinirağları\homework\homework2\MyForm.h(592,71): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+E:\kodlama\yapaysinirağları\homework\homework2\MyForm.h(681,13): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+E:\kodlama\yapaysinirağları\homework\homework2\MyForm.h(682,13): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+E:\kodlama\yapaysinirağları\homework\homework2\MyForm.cpp(14,15): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+  MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  homework2.vcxproj -> E:\kodlama\yapaysinirağları\homework\homework2\x64\Debug\homework2.exe
